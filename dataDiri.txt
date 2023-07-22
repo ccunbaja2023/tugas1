@@ -2,3 +2,5 @@ Nama: Muhammad Anwar Fauzan
 Asal: Universitas Banten Jaya
 Jurusan: Teknik Informatika
 Jenis Kelamin: Laki-Laki
+Alamat: Serang
+Fakultas: Ilmu Komputer
